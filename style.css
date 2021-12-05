@@ -1,0 +1,18 @@
+h1 {
+  font-size: 350px;
+  color: pink;
+  background-color: purple;
+
+}
+
+.kanye {
+  position: absolute;
+  left: 1000px;
+  top: 300px;
+  width: 400px;
+  height: 700px;
+}
+
+div {
+  display: inline-block;
+}
